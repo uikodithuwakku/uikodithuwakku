@@ -27,17 +27,11 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-  <div style="text-align: center;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  </div>
+### GitHub Stars
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&theme=tokyonight)
   
-  <div style="text-align: center;">
-    <h3>Top Languages</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uikodithuwakku&layout=compact" alt="Top Languages" />
-    </a>
-  </div>
-</div>
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uikodithuwakku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
