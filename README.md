@@ -22,16 +22,17 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,dart,flutter,c,cs,dotnet,git,github,bootstrap,mysql,firebase,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13" />
   </a>
 </p>
 
-### GitHub Stars
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&theme=tokyonight)
-  
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uikodithuwakku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h3 align="center">GitHub Streak</h3>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uikodithuwakku&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+</p>
