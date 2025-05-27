@@ -1,9 +1,11 @@
-<h2 align="center"> Hi there ! I'm Udani Kodithuwakku 👋</h2>
+<h2 align="center"> Hi there ! I'm Udani Kodithuwakku 
+    <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.png" alt="wave" height="30"/>
+</h2>
 
 <h3 align="center"> Mobile App Developer | UI/UX Designer | IEEE Member </h3>
 
 <div align = "center"> 
-    <p style="text-align: justify" > 
+    <p style="text-align: justify; max-width: 600px; margin: 0 auto;" > 
         I am a passionate second-year undergraduate pursing a software engineering Bachelor's degree. I have a strong passion in technology, so I am always eager to learn about new technologies and take over on challenging projects. I am a highly motivated and self-driven individual with a proven ability to work independently and as part of a team. I am always looking for opportunities to expand my skills and knowledge to have a beneficial influence in the field of software development.
     </p>
 </div>
@@ -18,7 +20,7 @@
 
 - 📧 How to reach me **kodithuwakkuindrachapa@gmail.com**
 
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/udani-kodithuwakku-156131328)
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/udani-kodithuwakku-156131328/)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -27,12 +29,11 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
-
-<h3 align="center">GitHub Streak</h3>
+<h3>GitHub Streak</h3>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=uikodithuwakku&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
