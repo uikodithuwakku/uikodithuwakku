@@ -1,9 +1,9 @@
 <h2 align="center"> Hi there ! I'm Udani Kodithuwakku 👋</h2>
 
-<h2 align="center"> Mobile App developer | UI/UX Designer | IEEE Member </h2>
+<h3 align="center"> Mobile App Developer | UI/UX Designer | IEEE Member </h3>
 
 <div align = "center"> 
-    <p> 
+    <p style="text-align: justify" > 
         I am a passionate second-year undergraduate pursing a software engineering Bachelor's degree. I have a strong passion in technology, so I am always eager to learn about new technologies and take over on challenging projects. I am a highly motivated and self-driven individual with a proven ability to work independently and as part of a team. I am always looking for opportunities to expand my skills and knowledge to have a beneficial influence in the field of software development.
     </p>
 </div>
@@ -18,7 +18,7 @@
 
 - 📧 How to reach me **kodithuwakkuindrachapa@gmail.com**
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/udani-kodithuwakku/)
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/udani-kodithuwakku-156131328)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -27,17 +27,17 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><h3>GitHub Stats</h3></td>
-    <td align="center"><h3>Top Languages</h3></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uikodithuwakku&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+  <div style="text-align: center;">
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=uikodithuwakku&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <h3>Top Languages</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uikodithuwakku&layout=compact" alt="Top Languages" />
+    </a>
+  </div>
+</div>
+
