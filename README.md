@@ -6,7 +6,7 @@
 
 <div align = "center"> 
     <p style="text-align: justify; max-width: 600px; margin: 0 auto;" > 
-        I am a passionate third-year undergraduate pursing a software engineering Bachelor's degree. I have a strong passion in technology, so I am always eager to learn about new technologies and take over on challenging projects. I am a highly motivated and self-driven individual with a proven ability to work independently and as part of a team. I am always looking for opportunities to expand my skills and knowledge to have a beneficial influence in the field of software development.
+        I am a passionate final-year undergraduate pursing a software engineering Bachelor's degree. I have a strong passion in technology, so I am always eager to learn about new technologies and take over on challenging projects. I am a highly motivated and self-driven individual with a proven ability to work independently and as part of a team. I am always looking for opportunities to expand my skills and knowledge to have a beneficial influence in the field of software development.
     </p>
 </div>
 
